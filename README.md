@@ -1,6 +1,6 @@
 # Benjamin Peace Hoffman
 
-Hi! I’m **Benjamin Peace Hoffman** — co-founder of **cityHUNT**, life & business strategist, and entrepreneur. I design team experiences, bring people together through play and mindfulness, and help teams grow stronger through shared, meaningful activities. :contentReference[oaicite:3]{index=3}
+Hi! I’m **Benjamin Peace Hoffman** — co-founder of **cityHUNT**, life & business strategist, and entrepreneur. I design team experiences, bring people together through play and mindfulness, and help teams grow stronger through shared, meaningful activities.
 
 This repository is part of my GitHub presence, where I’ll share projects, tools, and resources that support my work in team building, positive psychology, and creative growth.
 
